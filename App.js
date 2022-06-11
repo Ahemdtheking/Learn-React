@@ -3,7 +3,7 @@ import Card from "./Components/Card";
 import data from './data.json';
 
 const Name = 'React From Youtube';
-const Owner = 'Channel: Anisul Islam';
+const Owner = 'Name: Ahmed Mahim';
 
 
 function App() {
