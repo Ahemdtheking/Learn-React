@@ -1,0 +1,186 @@
+* {
+    background-color: rgb(245, 245, 169);
+}
+.name{
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.Name {
+    color: rgb(214, 83, 22);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.Owner{
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.Card {
+    background-color: aqua;
+    border-style: outset;
+    border-color: rgb(224, 169, 149);
+    border-bottom-color: rgb(252, 222, 139);
+    border-radius: 60px;
+    margin: 90px;
+    height: 145px;
+    box-shadow: 5px 5px 20px rgb(148, 153, 148);
+}
+.Card-h1{
+    font-size: 40px;
+    color: azure;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 60px;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Card-p{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 60px;
+    margin: 20px;
+    font-size: 25px;
+    align-items: flex-end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 5px;
+}
+.Card-desc{
+    background-color: aqua;
+    border-radius: 60px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+    height: 20px;
+}
+
+.Footer{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    background-color: black;
+    top: 100px;
+    width: auto;
+    height: auto;
+    position: relative;
+}
+.No{
+    background-color: black;
+    text-align: center;
+}
+.FB{
+    background-color: black;
+    text-align: center;
+}
+.GH{
+    background-color: black;
+    text-align: center;
+}
+.Email{
+    background-color: black;
+    text-align: center;
+}
+.CY{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: aliceblue;
+    font-size: 16px;
+    text-align: center;
+    bottom: 961px;
+}
+.Background{
+    background-color: rgb(214, 83, 22);
+    padding: 20px;
+    border-style: outset;
+    border-color: rgb(224, 169, 149);
+    border-bottom-color: rgb(252, 222, 139);
+    box-shadow: 5px 5px 20px rgb(148, 153, 148);
+    text-align: center;
+}
+.Menu-ber {
+    display: inline;
+}
+.Menu-ber{
+    background-color: rgb(214, 83, 22);
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.A1{
+    background-color: rgb(214, 83, 22);
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.A2{
+    background-color: rgb(214, 83, 22);
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.A3{
+    background-color: rgb(214, 83, 22);
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.A4{
+    background-color: rgb(214, 83, 22);
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.A5{
+    background-color: rgb(214, 83, 22);
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Search1{
+    background-color: CCC;
+    border-style: double;
+    border-radius: 90px;
+    padding: 10px;
+    font-size: 14px;
+    max-width: 250px;
+    margin-left: 50%;
+}
+.Submi-Search{
+    background-color: rgb(235, 215, 38);
+    font-size: 15px;
+    border-radius: 33px;
+    padding: 8px;
+    margin-left: 3px;
+    border-style: outset;
+    color: azure;
+    border-color: rgb(245, 107, 89);
+}
